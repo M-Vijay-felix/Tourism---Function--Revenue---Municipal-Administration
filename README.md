@@ -3,6 +3,8 @@
 Screenshot
 
 Screenshot of dashbord.jpg
+![Screenshot of dashbord](https://github.com/M-Vijay-felix/Tourism---Function--Revenue---Municipal-Administration/assets/132756063/a0d1c20d-6073-4d58-ae23-954635ff323f)
+
 
 Getting Started
 To view the dashboard, simply click on the live link above. If you want to download the dashboard and run it locally, you will need to have Power BI Desktop installed on your computer.
